@@ -33,7 +33,7 @@ export default function Footer() {
             color: theme.colors.neutral[400],
           }}
         >
-          &copy; {new Date().getFullYear()} DevSoutinho. Todos os direitos
+          &copy; {new Date().getFullYear()} Alex Britto. Todos os direitos
           reservados.
         </Text>
       </Box>
